@@ -9,6 +9,7 @@ Contenido:
 + __tablero.py__: adaptación
 + __simple_dash_w_format.py__: muestra de cómo formatearlo
 + __prueba-graficos-tablero.ipynb__: libreta para probar la generación de gráficos con plotly
++ __requirements.txt__: exportación de librerias del entorno (con cosas que uso en jupyter notebooks _perdón_)
 
 Liberías que se utilizan:
 
